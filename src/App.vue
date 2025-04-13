@@ -1,9 +1,8 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <!-- Aquí irá la landing -->
+  <h1>hola</h1>
 </template>
 
 <script setup lang="ts">
