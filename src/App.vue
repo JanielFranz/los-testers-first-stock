@@ -2,11 +2,11 @@
 </script>
 
 <template>
-  <h1>hola</h1>
+  <PoloLanding/> <!--Implement the component poloLanding-->
 </template>
 
 <script setup lang="ts">
-// Sin lógica por ahora
+import PoloLanding from './components/PoloLanding.vue'
 </script>
 
 <style scoped>
