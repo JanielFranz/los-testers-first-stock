@@ -21,20 +21,22 @@
         </div>
 
         <!-- Textos flotantes -->
-        <div class="absolute left-10 top-1/3 space-y-2 text-sm text-[#3d352c] font-light">
+        <div class="absolute left-6 top-40 md:left-10 md:top-1/3 space-y-2 text-sm text-[#3d352c] font-light">
             <p>- 100% algodón</p>
             <p>- Boxy Fit</p>
         </div>
 
-        <div class="absolute right-10 top-1/3 space-y-2 text-sm text-[#3d352c] font-light text-right">
+
+        <div
+            class="absolute right-6 top-40 md:right-10 md:top-1/3 space-y-2 text-sm text-[#3d352c] font-light text-right">
             <p>404 NOT FOUND COLLECTION</p>
             <p>STOCK: 12</p>
-            <p> &lt;LT/&gt; </p>        
+            <p>&lt;LT/&gt;</p>
         </div>
 
         <!-- Botón de WhatsApp -->
         <a href="https://wa.me/51TUNUMERO?text=Hola,%20quiero%20comprar%20el%20polo%20404" target="_blank"
-            class="absolute bottom-10 right-10 bg-[#1f1f1f] text-white px-6 py-3 rounded-full flex items-center gap-2 hover:bg-black transition z-10">
+            class="absolute bottom-10 md:right-10 bg-[#1f1f1f] text-white px-6 py-3 rounded-full flex items-center gap-2 hover:bg-black transition z-10">
             <i class="bi bi-whatsapp"></i>
             COMPRAR EN WHATSAPP
         </a>
