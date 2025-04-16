@@ -15,7 +15,7 @@
 
         <!-- Imagen flotando -->
         <div class="relative z-10 w-full max-w-[500px]">
-            <img src="../assets/img-polo-2.webp" alt="Polo 404" class="mx-auto w-full object-contain" loading="lazy" />
+            <img src="../assets/img-polo-d-1.webp" alt="Polo 404" class="mx-auto w-full object-contain" loading="lazy" />
             <p class="text-center font-light text-sm">Precio: S/ 50</p>
 
         </div>
