@@ -35,7 +35,7 @@
     </div>
 
     <!-- Botón de WhatsApp -->
-    <a href="https://wa.me/51TUNUMERO?text=Hola,%20quiero%20comprar%20el%20polo%20404" target="_blank"
+    <a href="https://wa.me/51940504383?text=Hola,%20quiero%20comprar%20el%20polo%20404" target="_blank"
        class="absolute bottom-10 md:right-10 bg-[#1f1f1f] text-white px-6 py-3 rounded-full flex items-center gap-2 hover:bg-black transition z-10">
       <i class="bi bi-whatsapp"></i>
       COMPRAR EN WHATSAPP
@@ -50,5 +50,3 @@
 <style scoped>
 /* Estilos temporales si los necesitas */
 </style>
-
-
