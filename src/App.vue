@@ -3,7 +3,7 @@
 </template>
 
 <script setup lang="ts">
-import PoloLanding from './components/PoloLanding.vue'
+import poloLanding from './components/PoloLanding.vue'
 </script>
 
 <style scoped>
