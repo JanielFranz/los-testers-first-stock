@@ -1,9 +1,9 @@
 <template>
-  <PoloLanding/> <!--Implement the component poloLanding-->
+  <polo-landing/> <!--Implement the component poloLanding-->
 </template>
 
 <script setup lang="ts">
-import poloLanding from './components/PoloLanding.vue'
+import poloLanding from './components/poloLanding.vue'
 </script>
 
 <style scoped>
